@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(253, 253, 253);
+}
+
+canvas {
+  /* background-color: rgb(238, 247, 240); */
+  margin-left: 5%;
+  width: 80%;
+  height: 60%;
+  object-fit: contain;
+  border: solid red 1px;
+}
